@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://qwe.urfreedvds.com/atom.xml" rel="self"/>
+  <link href="http://qwe.urfreedvds.com/"/>
+  <updated>2013-08-03T22:41:25+03:00</updated>
+  <id>http://qwe.urfreedvds.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[title1 Pamela Bumpers]]></title>
+    <link href="http://qwe.urfreedvds.com/blog/2013/08/03/slug3-Pamela-Bumpers/"/>
+    <updated>2013-08-03T00:00:00+03:00</updated>
+    <id>http://qwe.urfreedvds.com/blog/2013/08/03/slug3-Pamela-Bumpers</id>
+    <content type="html"><![CDATA[<p>test2</p>
+
+<p>Pamela Bumpers</p>
+
+<h2>123</h2>
+
+<p>dfdf</p>
+
+<p>2</p>
+]]></content>
+  </entry>
+  
+</feed>
